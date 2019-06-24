@@ -1,1 +1,2 @@
-*.c linguist-language=Scala
+*. linguist-language=C
+*. linguist-language=C
